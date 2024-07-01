@@ -1,0 +1,192 @@
+{
+  "blocked_tlds": [
+    {
+      "tld": ".xyz",
+      "description": "Commonly associated with spam and low-quality emails."
+    },
+    {
+      "tld": ".top",
+      "description": "Commonly used by spammers."
+    },
+    {
+      "tld": ".win",
+      "description": "Frequently used for spam and fraudulent activities."
+    },
+    {
+      "tld": ".vip",
+      "description": "Known for a high volume of spam."
+    },
+    {
+      "tld": ".click",
+      "description": "Often used in phishing and spam emails."
+    },
+    {
+      "tld": ".info",
+      "description": "Low-cost TLD often used by spammers."
+    },
+    {
+      "tld": ".biz",
+      "description": "Frequently associated with spam and unsolicited emails."
+    },
+    {
+      "tld": ".work",
+      "description": "Commonly used in spam and fraudulent activities."
+    },
+    {
+      "tld": ".date",
+      "description": "Often used for spam and fake dating sites."
+    },
+    {
+      "tld": ".loan",
+      "description": "Associated with spam and fraudulent loan offers."
+    },
+    {
+      "tld": ".science",
+      "description": "Commonly used by spammers."
+    },
+    {
+      "tld": ".review",
+      "description": "Known for a high volume of spam and fake reviews."
+    },
+    {
+      "tld": ".trade",
+      "description": "Frequently associated with spam."
+    },
+    {
+      "tld": ".accountant",
+      "description": "Often used in spam and fraudulent activities."
+    },
+    {
+      "tld": ".download",
+      "description": "Commonly used for spam and malicious downloads."
+    },
+    {
+      "tld": ".men",
+      "description": "Frequently used by spammers."
+    },
+    {
+      "tld": ".party",
+      "description": "Known for a high volume of spam."
+    },
+    {
+      "tld": ".racing",
+      "description": "Often used in spam and low-quality emails."
+    },
+    {
+      "tld": ".stream",
+      "description": "Commonly associated with spam and phishing."
+    },
+    {
+      "tld": ".faith",
+      "description": "Frequently used by spammers."
+    },
+    {
+      "tld": ".ru",
+      "description": "Country-specific TLD often associated with spam from Russia."
+    },
+    {
+      "tld": ".cn",
+      "description": "Country-specific TLD often associated with spam from China."
+    },
+    {
+      "tld": ".tk",
+      "description": "Country-specific TLD often used for spam and fraudulent activities."
+    },
+    {
+      "tld": ".pw",
+      "description": "Country-specific TLD known for spam."
+    },
+    {
+      "tld": ".ga",
+      "description": "Country-specific TLD frequently associated with spam."
+    },
+    {
+      "tld": ".cf",
+      "description": "Country-specific TLD often used for spam and fraudulent activities."
+    },
+    {
+      "tld": ".ml",
+      "description": "Country-specific TLD frequently associated with spam."
+    },
+    {
+      "tld": ".mil",
+      "description": "Military TLD, avoid contacting for security reasons."
+    },
+    {
+      "tld": ".mod.uk",
+      "description": "United Kingdom military TLD, avoid contacting for security reasons."
+    },
+    {
+      "tld": ".defense.tn",
+      "description": "Tunisia military TLD, avoid contacting for security reasons."
+    },
+    {
+      "tld": ".def.br",
+      "description": "Brazil military TLD, avoid contacting for security reasons."
+    },
+    {
+      "tld": ".mil.in",
+      "description": "India military TLD, avoid contacting for security reasons."
+    },
+    {
+      "tld": ".mil.nz",
+      "description": "New Zealand military TLD, avoid contacting for security reasons."
+    },
+    {
+      "tld": ".mil.ph",
+      "description": "Philippines military TLD, avoid contacting for security reasons."
+    },
+    {
+      "tld": ".mil.za",
+      "description": "South Africa military TLD, avoid contacting for security reasons."
+    },
+    {
+      "tld": ".mil.my",
+      "description": "Malaysia military TLD, avoid contacting for security reasons."
+    },
+    {
+      "tld": ".forces.ca",
+      "description": "Canada military TLD, avoid contacting for security reasons."
+    },
+    {
+      "tld": ".edu",
+      "description": "USA educational TLD, avoid contacting to prevent unsolicited emails."
+    },
+    {
+      "tld": ".ac.uk",
+      "description": "United Kingdom educational TLD, avoid contacting to prevent unsolicited emails."
+    },
+    {
+      "tld": ".edu.au",
+      "description": "Australia educational TLD, avoid contacting to prevent unsolicited emails."
+    },
+    {
+      "tld": ".edu.cn",
+      "description": "China educational TLD, avoid contacting to prevent unsolicited emails."
+    },
+    {
+      "tld": ".ac.in",
+      "description": "India educational TLD, avoid contacting to prevent unsolicited emails."
+    },
+    {
+      "tld": ".edu.sg",
+      "description": "Singapore educational TLD, avoid contacting to prevent unsolicited emails."
+    },
+    {
+      "tld": ".ac.nz",
+      "description": "New Zealand educational TLD, avoid contacting to prevent unsolicited emails."
+    },
+    {
+      "tld": ".edu.my",
+      "description": "Malaysia educational TLD, avoid contacting to prevent unsolicited emails."
+    },
+    {
+      "tld": ".ac.za",
+      "description": "South Africa educational TLD, avoid contacting to prevent unsolicited emails."
+    },
+    {
+      "tld": ".edu.ph",
+      "description": "Philippines educational TLD, avoid contacting to prevent unsolicited emails."
+    }
+  ]
+}
